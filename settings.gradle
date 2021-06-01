@@ -1,0 +1,3 @@
+include ':LinearChart'
+include ':app'
+rootProject.name = "Linear Chart"

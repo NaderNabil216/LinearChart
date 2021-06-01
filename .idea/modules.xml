@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Linear_Chart.iml" filepath="$PROJECT_DIR$/.idea/modules/Linear_Chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LinearChart/Linear_Chart.LinearChart.iml" filepath="$PROJECT_DIR$/.idea/modules/LinearChart/Linear_Chart.LinearChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Linear_Chart.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Linear_Chart.app.iml" />
+    </modules>
+  </component>
+</project>
